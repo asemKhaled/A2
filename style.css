@@ -1,0 +1,64 @@
+body {
+    background-image: url(rancidbannerbg.png); background-repeat:repeat-x;
+    background-position: top center; margin-top:0em; 
+    background-color: white;
+}
+    header {
+    text-align: center;
+    
+}
+.floated{
+    background-color: rgb(167, 245, 104);
+border-color: white;
+border-style: groove;
+width:250px;
+font-size: 8pt;
+
+padding:10px;
+
+
+margin-left: 0.01cm;
+float:right;
+
+text-align:left;
+}
+    .Saudi{font-size:20px; float:  center; text-align: center }
+    .fristCP{
+        margin-left: 20em;
+        margin-right: 22em;
+        margin-top: 0em;
+        margin-bottom: 0em;
+        position: relative;
+        
+
+    }
+    .chat1{
+        background-color:white;
+        border-style: groove;
+        border-color: white;
+        margin-right: 17.5em;
+        
+    }
+    .chat2{
+        border-style: groove;
+        border-color: white;
+        margin-right: 17.5em;
+        margin-top: 0.01em;
+        background-color:rgb(223, 223, 221);
+        
+    }
+    .lastColum{
+        background-color:rgb(133, 206, 74)
+        ;margin-bottom: 30em;
+        margin-left: 37.5em;
+        padding: 53px;
+        padding-bottom:750px;
+        padding-left: 110px;
+
+    }
+   
+    i{
+        font-size: 14pt;
+    }
+    
+ 
